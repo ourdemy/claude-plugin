@@ -1,0 +1,17 @@
+{
+  "name": "ourdemy",
+  "displayName": "Ourdemy",
+  "version": "0.1.0",
+  "license": "MIT",
+  "description": "Set up your Ourdemy academy, edit courses, and price and publish them by talking to Claude. Bundles the Ourdemy academy connector.",
+  "author": {
+    "name": "Ourdemy",
+    "url": "https://ourdemy.com"
+  },
+  "homepage": "https://ourdemy.com",
+  "privacyPolicyUrl": "https://ourdemy.com/privacy-policy-for-ourdemy-claude-plugin/",
+  "supportUrl": "https://ourdemy.com/contact",
+  "termsOfServiceUrl": "https://ourdemy.com/terms-and-conditions/",
+  "repository": "https://github.com/ourdemy/claude-plugin",
+  "keywords": ["ourdemy", "academy", "lms", "online-course", "オンライン講座"]
+}

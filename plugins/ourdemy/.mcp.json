@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "ourdemy-academy": {
+      "type": "http",
+      "url": "https://api.ourdemy.com/academy/mcp"
+    }
+  }
+}

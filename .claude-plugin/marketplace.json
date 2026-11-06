@@ -1,0 +1,16 @@
+{
+  "name": "ourdemy",
+  "description": "Ourdemy plugins for Claude",
+  "owner": {
+    "name": "Ourdemy",
+    "url": "https://ourdemy.com"
+  },
+  "plugins": [
+    {
+      "name": "ourdemy",
+      "source": "./plugins/ourdemy",
+      "description": "Set up your Ourdemy academy, edit courses, and price and publish them by talking to Claude.",
+      "version": "0.1.0"
+    }
+  ]
+}
